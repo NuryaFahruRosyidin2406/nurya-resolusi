@@ -1,2 +1,2 @@
 # nurya-resolusi
-Repositori untuk menyimpa rencana Nurya kedepannya
+Repositori untuk menyimpan rencana Nurya kedepannya
